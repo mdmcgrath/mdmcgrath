@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mike McGrath
+- 👋 Hi!
 - 👀 I have been a professional game developer since 1996, working on some fairly well-known projects, like Red Baron 2/3D, the Gen7 Godzilla melee games, Prince of Persia on the PSP, SOCOM PSP, MAG, SOCOM 4, Unit 13, Project Spark, and perhaps most notably, Minecraft.  The first game I contributed to, as a hobby, was an internet classic called "Netrek", which is often regarded as the first MOBA, and banned on several college campuses in the 80s and 90s. :) 
 - 🌱 I’m currently working on tools and engine code for a game called Apex: Legends.  Lots of stuff to learn here!
 - 💞️ As Mojang/Minecraft's (initial and now former) AR/VR tech lead, I still enjoy the AR/VR space a great deal, and have a lot of knowledge about it.  I love those types of projects!  I've spent my whole life with C/C++, and although I have tinkered with C#, Kotlin/Java, and a host of other languages, I will never trade convenience for power! ;)
